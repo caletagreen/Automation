@@ -49,9 +49,9 @@
    </script>
 
    <div style="width:1840px; position:absolute; margin-top:0px; margin-left:0px;">
-   <img src=http://entrancecamera.caletagreen.com:8072/videostream.cgi?user=malbuja&pwd=malbuja&resolution=36&rate=23 border="6" width=25%></a>
-   <img src=http://gardencamera.caletagreen.com:8074/videostream.cgi?user=malbuja&pwd=malbuja&resolution=36&rate=23 border="6" width=25%></a>
-   <img src=http://stairscamera.caletagreen.com:8076/videostream.cgi?user=malbuja&pwd=malbuja&resolution=36&rate=23 border="6" width=25%></a>
+   <img src=http://entrancecamera.caletagreen.com:8072/videostream.cgi?user=caleta&pwd=caleta&resolution=36&rate=23 border="6" width=25%></a>
+   <img src=http://gardencamera.caletagreen.com:8074/videostream.cgi?user=caleta&pwd=caleta&resolution=36&rate=23 border="6" width=25%></a>
+   <img src=http://stairscamera.caletagreen.com:8076/videostream.cgi?user=caleta&pwd=caleta&resolution=36&rate=23 border="6" width=25%></a>
    </div>
 
    <script type="text/javascript">
