@@ -10,6 +10,9 @@
 
    Use m2mData arduino library (https://github.com/m2mlight/m2mData)
    First, define parameters and alerts on m2mlight.com and obtain api_key identifiers
+   
+   Credits:
+   - http://www.instructables.com/id/Arduino-Internet-Time-Client/
 */
 
 /* Define what libraries to load */
