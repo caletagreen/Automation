@@ -53,11 +53,11 @@ void setup()
  }
 
 // Define api_key for each sensor. These api_key values are obtained from m2mlight.com
-char api_key1[] = "1njcic"; // Voltage
-char api_key2[] = "1njci8"; // Cooker real power
-char api_key3[] = "1njci9"; // Current phase 1
-char api_key4[] = "1njcia"; // Current phase 2
-char api_key5[] = "1njcib"; // Total real power
+char api_key1[] = "1njdic"; // Voltage
+char api_key2[] = "1njdi8"; // Cooker real power
+char api_key3[] = "1njdi9"; // Current phase 1
+char api_key4[] = "1njdia"; // Current phase 2
+char api_key5[] = "1njdib"; // Total real power
  
 void loop() {   
 
