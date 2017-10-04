@@ -33,11 +33,11 @@ m2mData actuator;                  // create an instance of actuator m2mData
 m2mData alert;                     // create an instance of alert m2mData
 
 // Define api_key variables obtained from m2mlight.com
-char api_key_alarm_on[] = "SoDI1njci3"; // actuator api_key entrance alarm on
-char api_key_alarm_off[] = "7o4V1njci4"; // actuator api_key entrance alarm off
-char api_key_garage_door[] = "q3KV1njchy"; // actuator api_key open garage door
-char api_key_pedestrian_door[] = "4GNK1njci2"; // actuator api_key open pedestrian door
-char api_key_photobean_detector[] = "kq6M1njci2"; // alert api_key photobean detector
+char api_key_alarm_on[] = "SoDI1ajci3"; // actuator api_key entrance alarm on
+char api_key_alarm_off[] = "7o4Vb1jci4"; // actuator api_key entrance alarm off
+char api_key_garage_door[] = "q3Kc1njchy"; // actuator api_key open garage door
+char api_key_pedestrian_door[] = "4dNK1njci2"; // actuator api_key open pedestrian door
+char api_key_photobean_detector[] = "ke6M1njci2"; // alert api_key photobean detector
 
 void setup(){
    // start the ethernet connection and the server
