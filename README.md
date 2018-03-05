@@ -1,2 +1,2 @@
 # Automation
-Home automation software (www.caletagreen.com)
+Home automation software for the Website: www.caletagreen.com
